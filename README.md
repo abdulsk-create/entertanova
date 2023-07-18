@@ -1,3 +1,3 @@
 # entertanova
 
-wordpress-domain name
+wordpress-domain for my articles
